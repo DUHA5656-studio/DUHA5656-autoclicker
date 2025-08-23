@@ -1,0 +1,17 @@
+{
+    "theme": "purple",
+    "acceleration": false,
+    "start_interval": 30.0,
+    "min_interval": 20.0,
+    "base_interval": 20.0,
+    "reset_key": "F9",
+    "lkm_key": "F7",
+    "pkm_key": "F8",
+    "optimization": true,
+    "window_geometry": {
+        "x": 97,
+        "y": -7,
+        "width": 800,
+        "height": 811
+    }
+}
