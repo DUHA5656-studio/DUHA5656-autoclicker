@@ -1,17 +1,23 @@
 {
     "theme": "purple",
     "acceleration": false,
-    "start_interval": 30.0,
-    "min_interval": 20.0,
+    "start_interval": 500.0,
+    "min_interval": 10.0,
     "base_interval": 20.0,
     "reset_key": "F9",
     "lkm_key": "F7",
     "pkm_key": "F8",
+    "play_macro_key": "F1",
+    "pause_macro_key": "F2",
+    "stop_macro_key": "F3",
+    "record_macro_key": "F12",
+    "stop_record_key": "F11",
+    "pause_record_key": "F10",
     "optimization": true,
     "window_geometry": {
-        "x": 97,
-        "y": -7,
-        "width": 800,
-        "height": 811
+        "x": 197,
+        "y": 17,
+        "width": 900,
+        "height": 1004
     }
 }
